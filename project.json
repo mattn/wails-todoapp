@@ -1,0 +1,18 @@
+{
+ "name": "Todo App",
+ "description": "Enter your project description",
+ "author": {
+  "name": "mattn",
+  "email": "mattn.jp@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "wails-todoapp.exe",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": ""
+}
