@@ -10,7 +10,7 @@ require (
 	github.com/leaanthony/mewn v0.10.7
 	github.com/leodido/go-urn v1.1.0 // indirect
 	github.com/lib/pq v1.2.0 // indirect
-	github.com/mattn/go-sqlite3 v1.11.0
+	github.com/mattn/go-sqlite3 v1.13.0
 	github.com/onsi/ginkgo v1.10.1 // indirect
 	github.com/onsi/gomega v1.7.0 // indirect
 	github.com/wailsapp/wails v0.17.0
