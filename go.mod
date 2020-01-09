@@ -13,7 +13,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.11.0
 	github.com/onsi/ginkgo v1.10.1 // indirect
 	github.com/onsi/gomega v1.7.0 // indirect
-	github.com/wailsapp/wails v0.17.0
+	github.com/wailsapp/wails v0.20.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.29.1 // indirect
